@@ -1,0 +1,3 @@
+[submodule "py-rapl"]
+	path = py-rapl
+	url = https://github.com/wkatsak/py-rapl
