@@ -6,7 +6,7 @@ influxdb-client==1.31.0
 msgpack==1.0.4
 numpy==1.23.5
 opentsdb-py==0.6.0
-powerapi==1.0.9
+powerapi==1.1.0
 prometheus-client==0.14.1
 pymongo==4.2.0
 python-dateutil==2.8.2
